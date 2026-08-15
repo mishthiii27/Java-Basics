@@ -1,6 +1,6 @@
 public class Array {
     public static void main(String[] args) {
-        int[] myArr = new int[5];
+        int[] myArr = new int[5];    //Practicing Arrays here
         myArr[0] = 21;
         myArr[1] = 2;
         myArr[2] = 2133;
@@ -19,6 +19,6 @@ public class Array {
         // System.out.println(arr[1]);
      //   System.out.println(arr[2]);
       //  System.out.println(arr[3]);
-      // z System.out.println(arr[4]);
+      //  System.out.println(arr[4]);
     }
 }
